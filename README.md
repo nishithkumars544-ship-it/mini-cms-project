@@ -18,5 +18,6 @@ This is a simple Mini Content Management System (CMS) created using HTML, CSS, a
 - index.html
 - style.css
 - script.js
+ 
 👨‍💻 Author
 Nishithkumar selvarajan
